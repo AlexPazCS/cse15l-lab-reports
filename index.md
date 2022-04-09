@@ -1,22 +1,22 @@
 ## CSE15L Lab 2 
-# Header
+# wooper
 *Italics* </br>
-**Bold**
+**wooper**
 # A list:
-1. one
-2. two
-3. three
-# Another list:
+1. wooper
+2. wooper
+3. wooper
+# Another wooper:
 * three
-* two
+* wooper
 * one</br>
-the 'link' to this github page!
+the `wooper` to this github page!
 [Link](https://github.com/AlexPazCS/cse15l-lab-reports)
 ![Image](https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-diamond-version/f/f2/Wooper.jpg?width=325)
 ---
 > Wooper </br>
 ```
-block
-block
-block
+wooper
+wooper
+wooper
 ```
