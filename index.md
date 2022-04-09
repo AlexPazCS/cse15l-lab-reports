@@ -20,3 +20,4 @@ wooper
 wooper
 wooper
 ```
+[lab 1 report](lab-report-1-week-2.html)
