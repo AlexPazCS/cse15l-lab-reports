@@ -20,4 +20,4 @@ wooper
 wooper
 wooper
 ```
-[lab 1 report](lab-report-1-week-2.html)
+[lab 1 report](https://alexpazcs.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
