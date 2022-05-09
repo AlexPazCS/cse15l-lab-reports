@@ -10,6 +10,9 @@ We create a config file inside of .ssh in our local machine to define a new alia
 a user name and a host name for usage in ssh calls. This makes calling commands like scp or ssh much easier as you only need to type <br>
 the alias instead of both the user name and the host name.
 # Setup Github Access from ieng6
+## Public Key Locations
+![image](https://user-images.githubusercontent.com/103294574/167345011-a896085d-a0a2-4d09-8705-a83c124c150e.png)
+
 
 
 
