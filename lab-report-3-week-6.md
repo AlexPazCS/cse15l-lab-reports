@@ -12,7 +12,17 @@ the alias instead of both the user name and the host name.
 # Setup Github Access from ieng6
 ## Public Key Locations
 ![image](https://user-images.githubusercontent.com/103294574/167345011-a896085d-a0a2-4d09-8705-a83c124c150e.png)
-
-
-
+## Private Key Locations
+![image](https://user-images.githubusercontent.com/103294574/167995535-725ff6f4-9169-481b-a532-749f0fa5112c.png)
+## Git Commit and Push
+![image](https://user-images.githubusercontent.com/103294574/167995293-9952335c-0f1e-48a6-9278-019bb87776a0.png)
+## Resulting commit link
+https://github.com/AlexPazCS/markdown-parser/commit/7e53a5600bbaebbf29590ffca8bedf403d5d9bfe
+# Copying whole directories
+## Using SCP to Copy Directory to Remote Account
+![image](https://user-images.githubusercontent.com/103294574/167997118-c3339165-e0ad-468f-904a-c803b200e18f.png)
+![image](https://user-images.githubusercontent.com/103294574/167997155-bdd39cb4-c555-4598-89bd-25d9d911271f.png)
+## Running Tests After SCP
+![image](https://user-images.githubusercontent.com/103294574/167998890-9e120530-032f-493b-ab78-0533a708b095.png)
+![image](https://user-images.githubusercontent.com/103294574/167998941-63771dd6-3db9-4bae-95f2-e3e94ef75ea0.png)
 
