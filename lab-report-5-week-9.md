@@ -14,6 +14,6 @@ the right output looks like this: <br>
 1. I foudn the error the same way as the first error, by looking at the text file with all the outputs and checking which ones <br>
 had outputs with links, and checked those test file markdown previews.
 2. The test file that was not correctly outputted is [491](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/491.md).
-
-
-The right output looks like this: [image](https://user-images.githubusercontent.com/103294574/172110444-35fb644c-ebb3-48d1-9848-077335e9daa2.png)
+3. Both implementations were wrong again. Here were there incorrect outputs (left: my-markdown-parser, right: cse15lsp22-markdown-parser): ![image](https://user-images.githubusercontent.com/103294574/172110713-2f7ac69c-09e4-485d-bed7-26826f8e1166.png)
+<br>The right output looks like this: 
+<br>![image](https://user-images.githubusercontent.com/103294574/172110444-35fb644c-ebb3-48d1-9848-077335e9daa2.png)
